@@ -3,7 +3,7 @@
 ----------------------
 This project deals with setting up and testing the different uses of Fat Shark FPV Goggles and Connex ProSight Camera Tx and Rx.
 # How to Power up the FPV Goggles
-![SAMPLE](Connex_Rx_Connector.jpg)
+![SAMPLE](images/Connex_Rx_Connector.jpg)
 * It is powered through the barrel jack connector on the included USB Rechargeable Battery.
 * The Goggles has an in-built cooling fan which can be powered through the 3 Pin RMS connector on the Battery.
 * The Battery has a Power Indicator.
