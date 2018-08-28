@@ -9,6 +9,7 @@ This project deals with setting up and testing the different uses of Fat Shark F
 * The Fan has to be switched on to prevent over heating.
 # How to Connect the goggles as an FPV
 * The goggles has 2 input modes and 4 output modes.
+![SAMPLE]()
     ## I/P
     ______
     HDMI
