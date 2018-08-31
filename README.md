@@ -58,8 +58,14 @@
   # How to Power up the Connex ProSight Receiver
 
 
-The Camera and Antenna are powered with a Lithium Polymer battery through an XT60 Connector.
+- The Receiver can either be powered through a Lithium Polymer Battery (with Barrel jack breakout or a Wall Adapter)
 
-The Transmitter requires no Pre / Post power on configurations.
+  ![](images/Connex_Rx_Wall_Adapter_Power_Input.jpg)
 
-- The Camera module has a rubberized casing and has to be oriented with the notch or marking facing the top. 
+- The Safe input voltage range is from **8 Volts to 26 Volts
+
+  ![](images/Connex_Rx_Wall_Adapter_Power_Input.jpg)
+
+- The Receiver can be hacked to run at 5 volts from a USB Port.
+
+- The Receiver has a operating range from 1000 ft to 3000 ft LOS.
