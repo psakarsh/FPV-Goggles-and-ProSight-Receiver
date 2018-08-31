@@ -1,5 +1,3 @@
-
-
 # FPV-Goggles-and-ProSight-Transmitter-Receiver-Pair
 
 ## Hookup Guide and Documentation
@@ -90,11 +88,10 @@
 
   ###### Links / URL
 
-  ###### 1. SPLITTER BOX (1 input - 8 outputs)
-<https://www.monoprice.com/product?p_id=14526&gclid=EAIaIQobChMI1vPp1d_v3AIVkJ-fCh2YUQRnEAQYBCABEgKgDfD_BwE>
+1. SPLITTER BOX (1 input - 8 outputs)
+  ##### <https://www.monoprice.com/product?p_id=14526&gclid=EAIaIQobChMI1vPp1d_v3AIVkJ-fCh2YUQRnEAQYBCABEgKgDfD_BwE>
 
-  ###### 2. SPLITTER CABLE (1 input - 2 outputs)
-
+2. SPLITTER CABLE (1 input - 2 outputs)
   ##### https://www.walmart.com/ip/AMZER-30cm-HDMI-Male-to-Dual-HDMI-Female-1-4-Version-Cable-Connector-Adapter/789596176?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227162515730&wl0=&wl1=g&wl2=c&wl3=274805517825&wl4=pla-456922318243&wl5=9005557&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=789596176&wl13=&veh=sem
 
 ###### NOTE - All slave displays will be receiving the cloned data from the master.
